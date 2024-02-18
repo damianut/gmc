@@ -33,6 +33,10 @@ video games Gothic and Gothic 2 Night of the Raven.
 
 - [ZenKit](libraries/zenkit.md) - A library to load, save and use almost all ZenGin asset files
 
+**Localizations**
+
+- [zSplitDialog](https://forum.worldofplayers.de/forum/threads/1617932-KNOWLEDGE-HUB-International-exchange-of-knowledge-and-tools/page2?p=27310034&viewfull=1#post27310034) - Top Layer's Union plugin, which gives the possibility to extract dialogues by character.
+
 **Debugging**
 
 - [zSpy](./zSpy.md) - Debugging tool that displays most of the operations performed by the engine during the Gothic or Spacer running, ships with the MDK.
